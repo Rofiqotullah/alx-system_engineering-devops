@@ -1,2 +1,2 @@
-clear
-
+#!/bin/bash
+chown betty hello
