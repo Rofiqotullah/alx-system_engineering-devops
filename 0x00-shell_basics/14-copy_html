@@ -1,2 +1,2 @@
-k#!/bin/bashl
+#!/bin/bash
 cp  -un *.html ../
